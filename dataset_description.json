@@ -1,0 +1,21 @@
+{
+	"Name": "Auditory Tones",
+	"BIDSVersion": "1.8.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Lonike K Faes",
+        "Agustin Lage-Castellanos",
+        "Giancarlo Valente",
+        "Zidan Yu",
+        "Martijn A. Cloos",
+        "Luca Vizioli",
+        "Steen Moeller",
+        "Essa Yacoub",
+        "Federico De Martino"
+    ],
+    "Funding": [
+        "National Institute of Health grant (RF1MH116978-01)",
+        "National Institute of Health grant (P41EB027061)",
+        "European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement No. 101001270)"
+    ]
+}

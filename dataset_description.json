@@ -1,6 +1,6 @@
 {
-	"Name": "Auditory Tones",
-	"BIDSVersion": "1.8.0",
+    "Name": "Auditory Tones",
+    "BIDSVersion": "1.8.0",
     "DatasetType": "raw",
     "Authors": [
         "Lonike K Faes",
@@ -17,5 +17,6 @@
         "National Institute of Health grant (RF1MH116978-01)",
         "National Institute of Health grant (P41EB027061)",
         "European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement No. 101001270)"
-    ]
+    ],
+    "License": "CC0"
 }
